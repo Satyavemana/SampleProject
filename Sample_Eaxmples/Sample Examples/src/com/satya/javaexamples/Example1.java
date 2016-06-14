@@ -22,6 +22,7 @@ public class Example1 implements Cloneable  {
 	    System.out.println("  rotate method2>>  "+Arrays.toString(result));
 	    System.arraycopy( result, 0, nums, 0, nums.length );
 	    System.out.println("  rotate method3>>  "+Arrays.toString(result));
+	   
 	}
 	
 	//Bubble rotate
@@ -57,6 +58,7 @@ public class Example1 implements Cloneable  {
 		//ex.rotate(array, 6);
 		//ex.rotate2(array, 17);
 		//System.out.println(" after rotate >>  "+Arrays.toString(array));
+		 System.out.println("print last");
 	}
 
 
