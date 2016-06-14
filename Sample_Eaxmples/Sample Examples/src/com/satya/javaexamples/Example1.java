@@ -59,6 +59,7 @@ public class Example1 implements Cloneable  {
 		//ex.rotate2(array, 17);
 		//System.out.println(" after rotate >>  "+Arrays.toString(array));
 		 System.out.println("print last");
+		 System.out.println("test2");
 	}
 
 
